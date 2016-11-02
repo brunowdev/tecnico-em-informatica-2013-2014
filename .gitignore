@@ -2,6 +2,7 @@
 .project
 .settings/
 target/
+build/
 node_modules/
 .idea/
 *.class
