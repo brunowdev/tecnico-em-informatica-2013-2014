@@ -1,4 +1,4 @@
-# tecnico-em-informatica-2013-2014
+# Técnico em Informática - 2013 / 2014
 
 Aqui estarão alguns projetos que foram implementados no Curso Técnico em Informática 2013/2014.
 
